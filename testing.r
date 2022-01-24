@@ -2,3 +2,10 @@
 
 print ("this is from gihub and firs file")
 
+name =  "khurram"
+
+version = "Rstudio -Khurram shahzad"
+
+print (name)
+print("thsi is file")
+
